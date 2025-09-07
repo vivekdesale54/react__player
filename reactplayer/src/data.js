@@ -19,7 +19,7 @@ function chillHop() {
       audio: "https://stream.chillhop.com/mp3/9143",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Simple Words",
